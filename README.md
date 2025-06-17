@@ -14,3 +14,22 @@ To build an interactive and user-friendly Sales Performance Dashboard using Powe
 -Power Apps (Input forms for real-time simulation)
 
 -SharePoint / Dataverse (for backend simulation inputs)
+
+## Key Features
+-KPI Cards: Total Revenue, Total Profit, Units Sold, Profit Margin
+
+-Interactive Slicers: Year, Region, Country, Sales Channel, Item Type
+
+-Visuals:
+
+  Map: Units Sold by Region
+
+  Pie & Donut Charts: Order Priority, Sales Channel
+
+  Line Chart: Revenue vs. Cost vs. Profit over time
+
+  Bar Charts: Top Profitable Regions & Products
+
+-What-If Analysis: Simulate pricing scenarios using DAX parameters
+
+-Power Apps Integration: Users can input custom values (e.g., price or cost) and immediately see impact on profit
