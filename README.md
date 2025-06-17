@@ -39,4 +39,11 @@ To build an interactive and user-friendly Sales Performance Dashboard using Powe
 
 -Enabled dynamic scenario testing for better decision-making
 
-.Reduced manual forecasting efforts through live input and simulation
+-Reduced manual forecasting efforts through live input and simulation
+
+## Report Dashboard
+![Screenshot (231)](https://github.com/user-attachments/assets/8d326c05-eaff-4ce3-9261-10044d04f86b)
+
+## Simulation and Inegeration of PowerApps Dashboard
+![Screenshot (230)](https://github.com/user-attachments/assets/93bae0fc-7288-4cf5-9db9-fb58e37c2a91)
+
