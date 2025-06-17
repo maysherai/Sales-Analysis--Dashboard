@@ -33,3 +33,10 @@ To build an interactive and user-friendly Sales Performance Dashboard using Powe
 -What-If Analysis: Simulate pricing scenarios using DAX parameters
 
 -Power Apps Integration: Users can input custom values (e.g., price or cost) and immediately see impact on profit
+
+## Business Impact
+-Improved insight into sales performance across regions and product categories
+
+-Enabled dynamic scenario testing for better decision-making
+
+.Reduced manual forecasting efforts through live input and simulation
