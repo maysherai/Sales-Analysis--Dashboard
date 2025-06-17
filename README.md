@@ -8,6 +8,9 @@ To build an interactive and user-friendly Sales Performance Dashboard using Powe
 
 ## Tools & Technologies
 -Power BI (Data Modeling, DAX, Visualizations, What-If Analysis)
+
 -Power Query (Data Cleaning & Transformation)
+
 -Power Apps (Input forms for real-time simulation)
+
 -SharePoint / Dataverse (for backend simulation inputs)
